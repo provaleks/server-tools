@@ -45,7 +45,7 @@
     ],
     "css": [
     ],
-    "auto_install": False,
+    "auto_install": True,
     'installable': False,
     "external_dependencies": {
         'python': [],
